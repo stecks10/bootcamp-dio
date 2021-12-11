@@ -1,6 +1,6 @@
-# Repositório do desafio da DIO
+# Desafio da DIO
 
-Bootcamp
+Repositório do Bootcamp
 
 
 ## Links úteis
