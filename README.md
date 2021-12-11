@@ -1,2 +1,3 @@
-# desafio-dio
+# Repositório do desafio da DIO
+
 Bootcamp
