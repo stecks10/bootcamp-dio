@@ -1,4 +1,4 @@
-# Desafio da DIO
+# Bootcamp inter da DIO
 
 Repositório do Bootcamp
 
